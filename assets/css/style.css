@@ -42,6 +42,7 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/* Apply styling to <footer>*/
 footer {
     background: #fce138;
     width: 100%;
@@ -57,10 +58,15 @@ footer h2 {
 
 footer div {
     float: right;
-    line height: 1.5;
+    line-height: 1.5;
     text-align: right;
 }
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
 }
