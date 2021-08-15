@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://missroseblue.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Sandra Caceres
+Made with ❤️ by Sandra M. Caceres
